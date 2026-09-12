@@ -40,7 +40,7 @@ The dashboard provides an overview of:
 | `E-Commerce_Sales_Analysis_PowerBI.pbix` | Power BI dashboard |
 | `data_analysis.py` | Python data analysis script |
 | `E-Commerce-Sales-Analysis.sql` | MySQL queries |
-| `dashboard_screenshot.png` | Dashboard preview |
+| `dashboard_screenshot_1.png` | Dashboard preview |
 
 ## 🔍 Key Insights
 
