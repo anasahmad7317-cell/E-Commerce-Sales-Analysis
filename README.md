@@ -31,7 +31,7 @@ The dashboard provides an overview of:
 
 ## 🖼️ Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard_screenshot.png)
+![E-Commerce Sales Dashboard](dashboard_screenshot_1.png)
 
 ## 📂 Project Files
 
